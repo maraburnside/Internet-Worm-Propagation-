@@ -1,5 +1,5 @@
 #  Discrete-Time Internet Worm Propagation Simulation
-### CAP 6135 – Programming Project 3 | Mara Burnside | UCF | April 2026
+###  Programming Project 3 | Mara Burnside | UCF | April 2026
 
 ---
 
